@@ -11,7 +11,7 @@ Tool output looks like this:
 00:14 This is our very first lecture and we are going to be covering developing applications for iOS, so specifically iOS7.
 ```
 
-Useful for quick lookup of a movie /lecture content, for textual learners, or as a friendly search engines assistant.
+Useful for quick lookup of a movie / lecture content, as and aiding tool for textual learners or as a friendly search engines assistant.
 
 Prerequisites
 =============
