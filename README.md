@@ -1,9 +1,10 @@
 subtitles
 =========
 
-Subtitles is a tool to extract caption track from an mp4 movie container and convert it in "human readble" text.
+Subtitles is a tool to extract caption track from an mp4 movie container and convert it in "human readble" text. 
 
-Tool output looks like this:
+Tool takes you from [no man](https://gist.github.com/maximveksler/2b599701caf4cfea3f4e) to [u man](https://gist.github.com/maximveksler/c038f93ed8acfb36c654).
+
 ```Textfile
 00:00 [ Music ]
 00:05 >> Stanford University.
