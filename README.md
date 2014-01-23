@@ -1,7 +1,7 @@
 subtitles
 =========
 
-Subtitles is a tool to extract caption track from an mp4 movie container and convert it in "human readble" script"
+Subtitles is a tool to extract caption track from an mp4 movie container and convert it in "human readble" text.
 
 Tool output looks like this:
 ```Textfile
