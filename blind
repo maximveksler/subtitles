@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ffmpeg -i "$1" -vn -an -codec:s:0 srt content.srt
+./str_humanizer.rb content.srt > $1.txt
+rm content.srt
