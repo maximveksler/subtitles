@@ -18,7 +18,7 @@ Prerequisites
 
 ```Shell
 brew install ffmpeg
-gem install sub
+gem install srt
 ```
 
 Usage
