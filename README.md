@@ -1,7 +1,9 @@
 subtitles
 =========
 
-Quick method to display subtitles contained in an mp4 movie in an easy to read text file
+A collection of scripts to transform subtitiles track encoded in mp4 container to a human readble format. 
+Useful for quick reference to the content of a given movie, or to educate yourself via reading instead of watching.
+Do as you please. I love it.
 
 Allows you to transform a file that looks like this:
 
