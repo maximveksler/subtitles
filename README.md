@@ -1,11 +1,12 @@
 subtitles
 =========
 
-Quick method to present subtitles encoded in an mp4 movies in a human readable format.
+Quick method to display subtitles contained in an mp4 movie in an easy to read text file
 
 Allows you to transform a file that looks like this:
 
-<pre>1
+```Textfile
+1
 00:00:00,506 --> 00:00:04,846
 [ Music ]
  
@@ -34,13 +35,20 @@ applications
  
 7
 00:00:18,966 --> 00:00:21,776
-for iOS, so specifically iOS7.</pre>
+for iOS, so specifically iOS7.
+```
 
 Into this
 
-<pre>
+```Textfile
 00:00 [ Music ]
 00:05 >> Stanford University.
 00:09 >> Alright, so welcome to Stanford CS193p, fall of 2013-14 academic year.
 00:14 This is our very first lecture and we are going to be covering developing applications for iOS, so specifically iOS7.
-</pre>
+```
+
+Prerequisites
+=============
+
+1. brew install ffmpeg
+2. gem install sub
