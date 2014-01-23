@@ -61,7 +61,8 @@ Usage
 =====
 
 ```Shell
-Maxims-MacBook-Air:subtitles maximveksler$ ./blind ~/Desktop/trytx3g/335-8860929064720897726-01_9_23_13_Mon_720p1500cc.mp4
+./blind ~/Desktop/trytx3g/335-8860929064720897726-01_9_23_13_Mon_720p1500cc.mp4
+
 00:00 Movie file /Users/maximveksler/Desktop/trytx3g/335-8860929064720897726-01_9_23_13_Mon_720p1500cc.mp4
 00:03 Captions have been extracted
 00:09 to /Users/maximveksler/Desktop/trytx3g/335-8860929064720897726-01_9_23_13_Mon_720p1500cc.mp4.txt
