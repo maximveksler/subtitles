@@ -3,8 +3,6 @@ subtitles
 
 Subtitles is a tool to extract caption track from an mp4 movie container and convert it in "human readble" script"
 
-Useful for quick lookup of a movie /lecture content, for textual learners, or as a friendly search engines assistant.
-
 Tool output looks like this:
 ```Textfile
 00:00 [ Music ]
@@ -12,6 +10,8 @@ Tool output looks like this:
 00:09 >> Alright, so welcome to Stanford CS193p, fall of 2013-14 academic year.
 00:14 This is our very first lecture and we are going to be covering developing applications for iOS, so specifically iOS7.
 ```
+
+Useful for quick lookup of a movie /lecture content, for textual learners, or as a friendly search engines assistant.
 
 Prerequisites
 =============
