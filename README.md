@@ -2,12 +2,7 @@ subtitles
 =========
 
 Subtitles is a tool to extract caption track from an mp4 movie container and convert it in "human readble" script"
-
-Useful for quick lookup of a movie / lecture content/
-for textual learners/
-as a friend for search engines.
-
-Do as you please. I love it.
+Useful for quick lookup of a movie /lecture content, for textual learners, or as a friendly search engines assistant.
 
 Tool output looks like this:
 ```Textfile
