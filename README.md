@@ -25,9 +25,9 @@ Usage
 =====
 
 ```Shell
-./blind ~/Desktop/trytx3g/335-8860929064720897726-01_9_23_13_Mon_720p1500cc.mp4
+Maxims-MacBook-Air:subtitles maximveksler$ ./blind ~/Documents/Lecture1.mp4
 
-Movie file /Users/maximveksler/Desktop/trytx3g/335-8860929064720897726-01_9_23_13_Mon_720p1500cc.mp4.
+Movie file /Users/maximveksler/Documents/Lecture1.mp4.
 Captions have been extracted.
-Get them from /Users/maximveksler/Desktop/trytx3g/335-8860929064720897726-01_9_23_13_Mon_720p1500cc.mp4.txt.
+Get them from /Users/maximveksler/Documents/Lecture1.mp4.txt.
 ```
